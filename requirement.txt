@@ -1,0 +1,8 @@
+
+pandas
+fmatch
+sklearn
+thundersvm
+numpy
+librosa
+soundfile
