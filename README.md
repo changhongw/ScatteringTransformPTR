@@ -1,5 +1,12 @@
 # Scattering Transform for Playing Technique Recognition
-Code for reproducing the playing technique recognition system in PhD thesis "Scattering Transform for Playing Technique Recognition". This work proposes two variants of the scattering transform: adaptive scattering and direction-invariant joint time--frequency scattering (dJTFS). The code for extracting these features was build upon the [ScatNet](https://www.di.ens.fr/data/software/scatnet/) toolbox. We organise the code into one notebook, which includes four stages:
+Implementation of scattering transform variants for playing technique recognition.
+
+This repository include code for reproducing the playing technique recognition system in:
+
+[1] C. Wang. "Scattering Transform for Playing Technique Recognition", PhD thesis, Queen Mary University of London, 2021.
+[2] C. Wang, E. Benetos, V. Lostanlen, and E. Chew. "Adaptive Scattering Transforms for Playing Technique Recognition", submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2021.
+
+Both work proposed two variants of the scattering transform: adaptive scattering and direction-invariant joint time--frequency scattering (dJTFS). The code for extracting these features was build upon the [ScatNet](https://www.di.ens.fr/data/software/scatnet/) toolbox. We organise the code into one notebook, which includes four stages:
 
 ## CBFdataset download
 Download the complete CBFdataset directly from [zenodo.org/record/5744336](https://zenodo.org/record/5744336).
