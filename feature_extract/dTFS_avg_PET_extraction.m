@@ -1,6 +1,6 @@
 % Extract the dJTFS-avg features
 clear all; clc; tic
-addpath(genpath('../../ScatteringTransformPTR/')) % dataset directory
+addpath(genpath('../ScatteringTransformPTR/')) % dataset directory
 run 'addpath_scatnet.m' % Scat code
 
 fid=fopen('file_names.txt'); 
