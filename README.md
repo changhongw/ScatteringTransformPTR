@@ -1,7 +1,7 @@
 # Scattering Transform for Playing Technique Recognition
 Code for reproducing the playing technique recognition system in the thesis:
 
-C. Wang. "[Scattering Transform for Playing Technique Recognition](https://changhongw.github.io/publications/)", PhD thesis, Queen Mary University of London, 2021.
+C. Wang. "[Scattering Transform for Playing Technique Recognition](https://qmro.qmul.ac.uk/xmlui/handle/123456789/76559)", PhD thesis, Queen Mary University of London, 2021.
 
 This work proposes two scattering transform variants, the adaptive scattering and the direction-invariant joint time--frequency scattering (dJTFS). The code for extracting these features is build upon the [ScatNet](https://www.di.ens.fr/data/software/scatnet/) toolbox. We organise the implementation by four stages:
 
