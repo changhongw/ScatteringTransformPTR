@@ -1,5 +1,5 @@
 # Scattering Transform for Playing Technique Recognition
-Code for reproducing the playing technique recognition system in the thesis:
+Code for reproducing the playing technique recognition system (Section 5.5.2) in the thesis:
 
 C. Wang. "[Scattering Transform for Playing Technique Recognition](https://qmro.qmul.ac.uk/xmlui/handle/123456789/76559)", PhD thesis, Queen Mary University of London, 2021.
 
@@ -19,5 +19,5 @@ With the scattering features extracted, we use a support vector machine classifi
 
 Any questions/bugs, please feel free to contact the author at changhong-wang@outlook.com.
 
-# Acknowledgement
+### Acknowledgement
 The thesis template is built upon [William J. Wilkinson](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/61329/WILKINSON_W_J_PhD_Final_041019.pdf?sequence=2&isAllowed=y)'s thesis.
