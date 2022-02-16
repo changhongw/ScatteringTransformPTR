@@ -17,7 +17,7 @@ We extract the AdaTS+AdaTRS feature and the dJTFS-avg feature using by calling M
 ## Playing Technique Recognition
 With the scattering features extracted, we use a support vector machine classifier to label the playing techniques.
 
-Any questions/bugs, please feel free to contact the author at changhong-wang@ls2n.fr.
+Any questions/bugs, please feel free to contact the author at changhong.wang@ls2n.fr.
 
 ### Acknowledgement
 The thesis template is built upon [William J. Wilkinson's thesis](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/61329/WILKINSON_W_J_PhD_Final_041019.pdf?sequence=2&isAllowed=y).
